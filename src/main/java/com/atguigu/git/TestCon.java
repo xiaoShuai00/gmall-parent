@@ -9,5 +9,6 @@ public class TestCon {
         System.out.println("helloWorld!第三次提交添加的代码");
         System.out.println("hot-fix  第一次提交的代码");
         System.out.println("master 第四次提交代码  合并冲突演示");
+        System.out.println("hot-fix  第二次提交的代码  合并代码冲突演示");
     }
 }
